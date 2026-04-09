@@ -1,12 +1,7 @@
 [
     {
-        "username": "Code",
-        "password": "Code2",
+        "username": "Gradi",
+        "password": "d18eacb40b25d9f771efd5d761ace2784d5675d4d39b7beadf088f38c4a8faea",
         "role": "customer"
-    },
-    {
-        "username": "admin2",
-        "password": "amin",
-        "role": "admin"
     }
 ]
